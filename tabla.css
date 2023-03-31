@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    height: 98vh;
+    color: black;
+    
+}
+nav{
+    background-color: rgb(30, 32, 36);
+    padding: 0.5%;
+}
+.nav-font{
+    color: white;
+    font-family: helvetica;
+    font-weight: lighter;
+    font-size: small;
+}
+
+h2{
+    font-family: Helvetica;
+    margin-top: 10%;
+    margin-left: 30%;
+    font-size: small;
+
+}
+
+header{
+    background-color: rgb(60, 199, 164);
+}
+table{
+    position: fixed;
+    margin-left: 30%;
+    width: 5%;
+    
+
+}
+
+.boton-editar{
+    background-color: yellow;
+}
+.boton-eliminar{
+    background-color: red;
+}
+
+tr:hover {background-color: #D6EEEE;}

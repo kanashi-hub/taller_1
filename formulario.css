@@ -1,0 +1,96 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    height: 98vh;
+    color: white;
+}
+
+nav{
+    background-color: rgb(30, 32, 36);
+    padding: 0.5%;
+}
+
+
+.nav-font{
+    color: white;
+    font-family: helvetica;
+    font-weight: lighter;
+    font-size: small;
+}
+
+h2{
+    margin-top: 7%;
+    margin-left: 22%;
+    color: black;
+    font-family: Helvetica;
+    font-weight: 500;
+}
+main{
+    height: 100%; 
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+    }
+    
+    .contenedor-login{
+        border-radius: 10px; 
+        background-color: rgb(54,57,63);
+        position: absolute; 
+        }
+.label{
+    position: relative;
+    text-align: center;
+    color: black;
+    font-style: normal;
+    font-size: small;
+    font-family: Helvetica;
+    font-weight: lighter;
+    margin-left: 22%;
+
+}
+
+.label2{
+    position: relative;
+    text-align: center;
+    color: black;
+    font-style: normal;
+    font-size: small;
+    font-family: Helvetica;
+    font-weight: lighter; 
+}
+
+
+.inputs{
+    margin-left: 22%;
+    border-radius: 0.4ch;
+    background-color: white;
+    width: 60%;
+}
+
+.retirado{
+    margin-left: 22%;
+}
+
+button{
+ background-color:rgb(46, 155, 83) ;
+ font-style: normal;
+ font-size: small;
+ font-weight: bold;  
+ border-radius: 0.4ch;
+ color: white; 
+ margin-left:22%;
+ width: 4%;
+ padding: 0.3%;
+ 
+}
+
+.foto{
+position: fixed;
+}
+.selector-pais{
+    margin-left: 22%;
+    width: 60%;
+}
